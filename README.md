@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jeshu
 - 👀 I’m interested in learing new tech and making myself familiar with programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently a university fresher
 - 📫 How to reach me ...
 - ⚡ i can do handstand (rn with wallsupport)
 
