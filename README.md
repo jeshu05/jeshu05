@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jeshu
-- 👀 I’m interested in learing new tech and making myself familiar with programming
-- 🌱 I’m currently a university fresher
-- 📫 How to reach me ...
+- 👀 recently developed interest in ML and CV
+- 🌱 University fresher
+- 📫 email - jesvanthvk0509@gmail.com
 - ⚡ i can do handstand (rn with wallsupport)
 
 <!---
